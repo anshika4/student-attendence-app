@@ -5,7 +5,7 @@ export default class AppHeader extends React.Component {
   render() {
     return (
       <View style={styles.viewStyle}>
-        <Text style={styles.textStyle}>Buzz App</Text>
+        <Text style={styles.textStyle}>Attendence App</Text>
       </View>
     );
   }
